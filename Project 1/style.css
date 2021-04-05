@@ -27,7 +27,7 @@ body {
   flex: 0.5;
   margin: 20px;
   position: relative;
-  transition: flex 0.7s ease-in;
+  transition: flex 0.5s ease-in;
 }
 .panel h3 {
   font-size: 30px;
